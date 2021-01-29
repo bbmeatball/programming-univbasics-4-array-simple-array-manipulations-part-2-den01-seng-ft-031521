@@ -18,6 +18,6 @@ def using_delete(array, string)
   array.delete(string)
 end
   
-  def using_delte_at(array,integer)
-    array.delete_at(integer)
+  def delte_at(array,integer)
+    array.delete_at(2)
   end
