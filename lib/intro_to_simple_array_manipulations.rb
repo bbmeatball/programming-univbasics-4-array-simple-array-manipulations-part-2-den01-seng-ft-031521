@@ -1,3 +1,3 @@
 def using_concat(array)
-  my_favorite_things.concat
+  array.concat (array)
 end
